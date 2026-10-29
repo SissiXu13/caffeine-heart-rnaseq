@@ -1,0 +1,10 @@
+# large or regenerated outputs
+ref/
+quant/
+tmp/
+logs/
+metadata/
+results/
+figures/
+*.rds
+.DS_Store
